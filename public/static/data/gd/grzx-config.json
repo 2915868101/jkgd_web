@@ -1,0 +1,39 @@
+{
+  "jzjlList": [
+  {
+    "tit": "挂号记录",
+    "icons": "/imgs/grzx/ghjl_icon.png",
+    "url": "grzx_ghjl"
+  },
+  {
+    "tit": "报告查询",
+    "icons": "/imgs/grzx/bgcx_icon.png",
+    "url": "bgcx_index"
+  },
+  {
+    "tit": "咨询记录",
+    "icons": "/imgs/grzx/xswzjl_icon.png",
+    "url": "zxzx_index"
+  }],
+  "gdfwList": [
+  {
+    "tit": "电子健康卡",
+    "icons": "/imgs/grzx/wdjzr_icon.png",
+    "url": "people_lists"
+  },
+  {
+    "tit": "关注的医生",
+    "icons": "/imgs/grzx/gzdys_icon.png",
+    "url": "doctor_lists"
+  },
+  {
+    "tit": "我的申请",
+    "icons": "/imgs/grzx/wdsq_icon.png",
+    "url": "jtys_qy_jd"
+  },
+  {
+    "tit": "健康自测",
+    "icons": "/imgs/grzx/jkzc_icon.png",
+    "url": "jkzc_index"
+  }]
+}

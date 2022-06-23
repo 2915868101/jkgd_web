@@ -1,0 +1,60 @@
+{
+  "title": "健康池州",
+  "indexBg": "/imgs/index/cz/index-bg.png",
+  "menuList": [
+  {
+    "tit": "去挂号",
+    "txt": "一键线上挂号",
+    "icons": "/imgs/index/cz/list-icon1.png",
+    "url": "yygh_index"
+  },
+  {
+    "tit": "报告查询",
+    "txt": "随时查看报告",
+    "icons": "/imgs/index/cz/list-icon2.png",
+    "url": "bgcx_index"
+  }],
+  "menuWrap": [
+  {
+    "tit": "智能分诊",
+    "icons": "/imgs/index/cz/menu-icon1.png",
+    "url": "guidance_index"
+  },
+  {
+    "tit": "健康档案",
+    "icons": "/imgs/index/cz/menu-icon2.png",
+    "url": "jkda_index"
+  },
+  {
+    "tit": "家庭医生",
+    "icons": "/imgs/index/cz/menu-icon4.png",
+    "url": "jtys_index"
+  },
+  {
+    "tit": "慢病管理",
+    "icons": "/imgs/index/cz/menu-icon5.png",
+    "url": "mbgl_index"
+  },
+  {
+    "tit": "科普视频",
+    "icons": "/imgs/index/cz/menu-icon6.png",
+    "url": "https://m.pule.com/coop/hnwisdom_chizhou/",
+    "islink": "1"
+  },
+  {
+    "tit": "满意度评价",
+    "icons": "/imgs/index/cz/menu-icon3.png",
+    "url": "fwpj_list"
+  },
+  {
+    "tit": "电子社保",
+    "icons": "/imgs/index/cz/menu-icon7.png",
+    "url": "https://mp.weixin.qq.com/insurance/card/jump?is_depart=1&cityid=340500&from=_iyYoLo3xU6YBB8cbjNmjA.%3D#wechat_redirect",
+    "islink": "1"
+  },
+  {
+    "tit": "电子健康卡",
+    "icons": "/imgs/index/cz/menu-icon9.png",
+    "url": "people_lists"
+  }]
+}

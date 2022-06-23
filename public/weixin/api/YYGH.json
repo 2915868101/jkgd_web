@@ -1,0 +1,114 @@
+{
+	"summer": {
+		"MORNING_HOUR_START": 7,
+		"MORNING_MIN_START": 30,
+		"MORNING_HOUR_END": 11,
+		"MORNING_MIN_END": 30,
+		"MORNING_INTERVAL": 60,
+		
+		"NOON_HOUR_START": 12,
+		"NOON_MIN_START": 0,
+		"NOON_HOUR_END": 14,
+		"NOON_MIN_END": 0,
+		"NOON_INTERVAL":0,
+		
+		"AFTER_HOUR_START": 13,
+		"AFTER_MIN_START": 30,
+		"AFTER_HOUR_END":17,
+		"AFTER_MIN_END": 30,
+		"AFTER_INTERVAL": 60,
+		
+		"NIGHT_HOUR_START": 18,
+		"NIGHT_MIN_START": 0,
+		"NIGHT_HOUR_END": 21,
+		"NIGHT_MIN_END": 0,
+		"NIGHT_INTERVAL": 0,
+		
+		"INTERVAL": 60,
+		
+		"ONLYTODAY":"Y"
+		
+	},
+	"winter": {
+		"MORNING_HOUR_START": 7,
+		"MORNING_MIN_START": 30,
+		"MORNING_HOUR_END": 11,
+		"MORNING_MIN_END":30,
+		"MORNING_INTERVAL": 60,
+		
+		"NOON_HOUR_START": 12,
+		"NOON_MIN_START": 0,
+		"NOON_HOUR_END": 13,
+		"NOON_MIN_END": 0,
+		"NOON_INTERVAL":0,
+		
+		"AFTER_HOUR_START": 13,
+		"AFTER_MIN_START": 30,
+		"AFTER_HOUR_END": 17,
+		"AFTER_MIN_END": 30,
+		"AFTER_INTERVAL": 60,
+		
+		"NIGHT_HOUR_START": 18,
+		"NIGHT_MIN_START": 0,
+		"NIGHT_HOUR_END": 20,
+		"NIGHT_MIN_END": 0,
+		"NIGHT_INTERVAL": 0,
+		
+		"INTERVAL": 60,
+		
+		"ONLYTODAY":"Y"
+	},
+	"summer_spilt": {
+		"dateStrat": "05-01",
+		"dateend": "09-30"
+	},
+	"winter_split": {
+		"dateStrat": "04-30",
+		"dateend": "10-01"
+	},
+	"HYXX":"N",
+	"TJYY":{
+	     "TJYYRS":25,
+	     "TJYYSD1":10,
+	     "TJYYSD2":10,
+	     "TJYYSD3":5,
+	     "TJYYHM":5,
+	     "GLY":[
+            {
+                "name":"gmf",
+                "openid":"o2akw1AP65rONmWNa4sRuYCi1-DU"
+            },
+            {
+                "name":"zmy",
+                "openid":"o2akw1HXE3ZIr5OmIZERzscn_2ZE"
+            },
+            {
+                "name":"zengxiangyan",
+                "openid":"o2akw1BGIhsx-nLSUOzyFlrnaL_s"
+            },
+            {
+                "name":"lengxiaojian",
+                "openid":"o2akw1CYAmbDyqGBqBxViFbtCMP4"
+            },
+            {
+                "name":"tjglzx",
+                "openid":"o2akw1Mu0iFxrVI7fCHl_SSkPFjE"
+            }
+          ]
+	},
+	"hissj":{
+	    "IS":"ALL",
+	    "ZDR":[],
+        "HISZD":[{  "name" : "zmy",
+		         	"openid":"o2akw1HXE3ZIr5OmIZERzscn_2ZE"
+		         },
+		         {  "name" : "xmh",
+		         	"openid":"o2akw1CK3NMVZ1t7wnwo16m9ujcY"
+		         },
+		         {  "name" : "hr",
+		         	"openid":"o2akw1Kpy3AOXZdQTWiRVH09y6m4"
+		         }
+           ]
+	}
+	
+}

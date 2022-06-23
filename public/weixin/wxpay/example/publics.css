@@ -1,0 +1,137 @@
+.icon {
+  	/* 图标和文字相邻时，垂直对齐 */
+  	vertical-align: -0.28rem;
+  	/* 通过设置 color 来改变 SVG 的颜色/fill */
+  	fill: currentColor;
+  	/* path 和 stroke 溢出 viewBox 部分在 IE 下会显示
+    normalize.css 中也包含这行 */
+  	overflow: hidden;
+}
+#mymarquee{
+	float: left;
+	color: red;
+}
+.return-svg .icon {
+	color: #FFFFFF;
+  	/* 通过设置 font-size 来改变图标大小 */
+  	width: 1.5rem; height: 1.5rem;
+}
+
+.head{
+	position: relative;
+	float: left;
+	width: 100%;
+	background-color: #21AEF3;
+}
+.head-return{
+	position: relative;
+	z-index: 999;
+}
+.head-return,.return-svg,.return-text{
+	float: left;
+}
+.return-svg{
+	padding: 1.15rem .2rem 1.1rem .96rem;
+}
+.return-text{
+	color: #FFFFFF;
+	font-size: 1.3rem;
+	padding: 1rem 0;
+}
+.add-report{
+	position: relative;
+	z-index: 999;
+	float: right;
+	color: #FFFFFF;
+	font-size: 1.2rem;
+	padding: 1rem .96rem 1rem;
+}
+.head-title{
+	position: absolute;
+	top: 0;
+	left: 0;
+	color: #FFFFFF;
+	font-size: 1.4rem;
+	width: 100%;
+	height: 3.76rem;
+	line-height: 4rem;
+	text-align: center;
+}
+.bg-color{
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	background: rgba(0,0,0,.3);
+}
+.ifbg{
+	position: absolute;
+    left: 10%;
+    top: 30%;
+    z-index: 9999;
+    width: 80%;
+    height: 200px;
+    border-radius: 5px;
+    background-color: #FFF;
+}
+.tishi{
+	float: left;
+    width: 100%;
+    height: 120px;
+    line-height: 120px;
+    text-align: center;
+    font-size: 1.9rem;
+}
+.yn{
+	float: left;
+    width: 100%;
+}
+.showHezi,.hideHezi{
+	float: left;
+    width: 50%;
+    text-align: center;
+}
+.show,.hide{
+	color: #FFFFFF;
+	font-size: 1.5rem;
+    width: 80px;
+    height: 40px;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	background-color: #21AEF3;
+}
+
+/*提示*/
+.container{
+	float: left;
+	width: 100%;
+	margin-top: 1.77778rem;
+}
+div.title {
+	font-size: 1.2rem;
+    text-align: center;
+}
+div.title span {
+	color: #9b9b9c;
+    display: block;     /*设置为块级元素会独占一行形成上下居中的效果*/
+    position: relative;   /*定位横线（当横线的父元素）*/
+}
+div.title span:before, div.title span:after {
+    content: '';                 /*CSS伪类用法*/
+    position: absolute;         /*定位背景横线的位置*/
+    top: 52%;
+    background: #dddede;       /*宽和高做出来的背景横线*/
+    width: 35%;
+    height: 1px;
+    box-shadow: 0 1px 0 #f8f7f8;
+    -webkit-box-shadow: 0 1px 0 #f8f7f8;
+}
+div.title span:before{
+    left: .96rem;        /*调整背景横线的左右距离*/
+}
+div.title span:after {
+    right: .96rem;
+}
