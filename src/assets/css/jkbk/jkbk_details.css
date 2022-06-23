@@ -1,0 +1,27 @@
+@charset "utf-8";
+.jkbk_details{
+  padding: 15px;
+  overflow-y: auto;
+}
+.jkbk_details .box{
+  border: 1px solid #c9c9c9;
+  border-radius: 5px;
+  background-color: #fff;
+  margin-bottom: 15px;
+}
+.jkbk_details .box .tit,
+.jkbk_details .box .cont{
+  padding: 10px 15px;
+  overflow-y: auto;
+}
+.jkbk_details .box .tit{
+  font-size: 18px;
+  font-weight: bold;
+}
+.jkbk_details .box .cont{
+  line-height: 1.5;
+  border-top: 1px solid #c9c9c9;
+}
+.jkbk_details .btm {
+  margin-bottom: 40px;
+}

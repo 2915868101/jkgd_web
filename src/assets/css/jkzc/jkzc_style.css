@@ -1,0 +1,215 @@
+@charset "utf-8";
+.jkzc_qpz .f-advice,
+.jkzc_xljk .f-advice,
+.jkzc_stjkzk .f-advice,
+.jkzc_kjz .f-advice,
+.jkzc_yjk .f-advice,
+.jkzc_yyz .f-advice,
+.jkzc_ycq .f-advice,
+.jkzc_xgzc .f-advice,
+.jkzc_bmi .f-advice {
+  margin: 30px 10px;
+  padding: 40px 5px;
+  text-align: center;
+  border: 2px solid #ededed;
+  color: #fff;
+}
+
+.jkzc_ycq .f-advice .fate,
+.jkzc_bmi .f-advice .fate {
+  font-size: 30px;
+  color: #eeb52b;
+}
+
+.jkzc_ycq .weui-cell,
+.jkzc_ytw .weui-cell,
+.jkzc_bmi .weui-cell {
+  padding: 17px 15px !important;
+}
+
+.jkzc_ycq .weui-cell {
+  font-size: 14px;
+}
+
+.jkzc_ytw .m-range,
+.jkzc_bmi .m-range { 
+  width: 80%;  
+  display: inline-block; 
+  margin-top: 8px;
+}
+
+.jkzc_ytw .m-range .vux-range-input-box,
+.jkzc_bmi .m-range .vux-range-input-box {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+}
+
+.jkzc_ytw .m-range .range-min,
+.jkzc_ytw .m-range .range-max,
+.jkzc_bmi .m-range .range-min,
+.jkzc_bmi .m-range .range-max {
+  display: none;
+}
+
+.jkzc_ytw .range-quantity,
+.jkzc_bmi .range-quantity {
+  background-color: #2ba5eb;
+}
+
+.jkzc_ytw .radio {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%; 
+}
+
+.jkzc_ytw .radio .icon {
+  display: inline-block;
+  position: relative;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  top: 3px;
+  margin-right: 5px
+}
+
+.jkzc_ytw .radio .icon:before {
+  content: '';
+  display: block;
+  width: 8px;
+  height: 8px;
+  line-height: 8px;
+  border-radius: 50%;
+  background-color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -4px;
+  margin-top: -4px
+}
+
+.jkzc_ytw .radio .icon.active {
+  background-color: #26a2ff;
+  border: 1px solid #26a2ff
+}
+
+.jkzc_wj_box .g-que-box{
+  border: 1px solid #a3a3a3;
+  padding: 15px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: #fff;
+  border-radius: 7px
+}
+
+.jkzc_wj_box .g-que-box .f-que-tit {
+  padding-top: 10px;
+  line-height: 1.5;
+  padding-left: 65px
+}
+
+.jkzc_wj_box .g-que-box .f-que-tit .tag {
+  padding: 3px 7px;
+  background-color: #21aef3;
+  color: #fff;
+  border-radius: 5px;
+  position: relative;
+  margin-right: 15px;
+  margin-left: -65px;
+  float: left
+}
+
+.jkzc_wj_box .g-que-box .f-que-tit .tag:before {
+  content: '';
+  display: block;
+  position: absolute;
+  right: -5px;
+  top: 7px;
+  border-width: 6px 0 6px 6px;
+  border-style: solid;
+  border-color: transparent transparent transparent #21aef3
+}
+
+.jkzc_wj_box .g-que-box .f-que-tit .tt {
+  display: block;
+  position: relative;
+  top: 3px
+}
+
+.jkzc_wj_box .g-que-box .f-que-items {
+  padding: 15px 0
+}
+
+.jkzc_wj_box .g-que-box .f-que-items a {
+  display: block;
+  height: 40px;
+  line-height: 40px;
+  color: #666;
+  padding: 0 5px
+}
+
+.jkzc_wj_box .g-que-box .f-que-items a:before {
+  content: '';
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-color: #d7dcde;
+  margin-right: 15px;
+  border-radius: 3px
+}
+
+.jkzc_wj_box .g-que-box .f-que-items a.checked:before {
+  background-color: #21aef3;
+  background-image: url(../../img/jkzc/hook.svg);
+  background-position: center center;
+  background-repeat: no-repeat
+}
+
+.jkzc_bk_box .g-main-content {
+  padding: 10px;
+  line-height: 1.5;
+  color: #444;
+}
+
+.jkzc_bk_box .g-main-content .f-tit {
+  font-size: 16px;
+  border-bottom: 1px solid #dcdcdc;
+  padding-bottom: 5px;
+}
+
+.jkzc_bk_box .g-main-content .f-tit span {
+  border-left: 4px solid #21aef3;
+  padding: 0 10px;
+  font-weight: 600;
+}
+
+.jkzc_bk_box .g-main-content .f-cont {
+  padding: 10px 0;
+}
+
+
+.s-bgc31a1a0{background: #31a1a0;}
+.s-c31a1a0{color: #31a1a0;}
+.s-bgc21b05b{background: #21b05b;}
+.s-c21b05b{color: #21b05b;}
+.s-bgceeb52b{background: #eeb52b;}
+.s-ceeb52b{color: #eeb52b;}
+.s-bgccf4f39{background: #cf4f39;}
+.s-ccf4f39{color: #cf4f39;}
+.s-bgce4570a{background: #e4570a;}
+.s-ce4570a{color: #e4570a;}
+.s-bgce52636{background: #e52636;} 
+.s-ce52636{color: #e52636;}
+
+.jkzc-tip-box{
+  position: fixed;
+  bottom: 40px;
+  width: 100%;
+  text-align: center;
+  font-size: 13px;
+  color: #999;
+}
